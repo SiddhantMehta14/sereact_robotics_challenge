@@ -1,0 +1,7 @@
+[submodule "robot_description/src/Universal_Robots_ROS2_Gazebo_Simulation"]
+	path = robot_description/src/Universal_Robots_ROS2_Gazebo_Simulation
+	url = https://github.com/UniversalRobots/Universal_Robots_ROS2_Gazebo_Simulation.git
+	branch = humble
+[submodule "robot_description/src/Universal_Robots_ROS2_Description"]
+	path = robot_description/src/Universal_Robots_ROS2_Description
+	url = ../../UniversalRobots/Universal_Robots_ROS2_Description.git
